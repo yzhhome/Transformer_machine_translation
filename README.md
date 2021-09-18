@@ -1,0 +1,2 @@
+# Transformer_machine_translation
+ 手动实现Transformer编码器和解码器，并用作机器翻译
